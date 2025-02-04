@@ -116,17 +116,31 @@ TextureImporter:
       name: air hockey corner sprite_0
       rect:
         serializedVersion: 2
-        x: 570
+        x: 568
         y: 316
-        width: 811
-        height: 819
+        width: 813
+        height: 823
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -205.5, y: -408.5}
+        - {x: -202.5, y: -22.5}
+        - {x: -126.5, y: 137.5}
+        - {x: 34.5, y: 232.5}
+        - {x: 404.5, y: 227.5}
+        - {x: 406.5, y: 231.5}
+        - {x: 406.5, y: 401.5}
+        - {x: 401.5, y: 403.5}
+        - {x: -173.5, y: 408.5}
+        - {x: -389.5, y: 408.5}
+        - {x: -393.5, y: 405.5}
+        - {x: -403.5, y: -306.5}
+        - {x: -403.5, y: -410.5}
+        - {x: -317.5, y: -410.5}
+      tessellationDetail: 0
       bones: []
       spriteID: 56626a5a80a2fe380800000000000000
       internalID: -8939880518679910811
@@ -138,7 +152,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7be0059d27710644192fbc23ffb4e922
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +161,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      air hockey corner sprite_0: -8939880518679910811
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      air hockey p1_0: 8663162469335909460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
